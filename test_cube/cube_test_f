@@ -1,7 +1,6 @@
 from ursina import *
 
 app = Ursina()
-
 cube_colors = [
     color.pink,  # right
     color.orange,   # left
